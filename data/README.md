@@ -1,0 +1,1 @@
+`synthetic_demo_data.csv` is generated sample data for demonstrating the dashboard and analysis workflow. It is not real Hyderabad or any other city's measured weather, vegetation, or built-up data. Do not use it to make real-world claims. Live weather estimates are fetched separately in the app from Open-Meteo.
